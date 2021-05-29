@@ -5,7 +5,8 @@ I provided the step-by-step process, including Web Scraping from scratch (jobstr
 
 ### Resources Indeed Web Scraping
 @author: bonniema
-(https://towardsdatascience.com/web-scraping-job-postings-from-indeed-com-using-selenium-5ae58d155daf)
+
+> (https://towardsdatascience.com/web-scraping-job-postings-from-indeed-com-using-selenium-5ae58d155daf)
 
 ### Resources for Indonesian Map Visualization
 Inspired by the work from Bima Putra
