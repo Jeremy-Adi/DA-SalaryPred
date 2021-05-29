@@ -8,7 +8,7 @@ I provided the step-by-step process, including Web Scraping from scratch (jobstr
 
 > (https://towardsdatascience.com/web-scraping-job-postings-from-indeed-com-using-selenium-5ae58d155daf)
 
-### Resources for Indonesian Map Visualization
+### Resources for Indonesia Map Visualization
 Inspired by the work from Bima Putra
 
 > https://towardsdatascience.com/noobs-guide-to-create-choropleth-map-using-python-geopandas-d6269e9e9a0c
