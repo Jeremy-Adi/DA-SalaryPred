@@ -9,5 +9,5 @@ I provided the step-by-step process, including Web Scraping from scratch (jobstr
 
 ### Resources for Indonesian Map Visualization
 Inspired by the work from Bima Putra
-# https://towardsdatascience.com/noobs-guide-to-create-choropleth-map-using-python-geopandas-d6269e9e9a0c
-# Github : bimaputra1/School_Participation_Rates_with_GeoPandas
+https://towardsdatascience.com/noobs-guide-to-create-choropleth-map-using-python-geopandas-d6269e9e9a0c
+Github : bimaputra1/School_Participation_Rates_with_GeoPandas
